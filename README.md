@@ -19,7 +19,11 @@ A Desktop application that gives the possibility of preparing and running tests 
 
 ## Screenshots
 
-![App Screenshot](/Images/login.PNG?raw=true "Optional Title")
+![App Screenshot](/Images/login.PNG?raw=true "Log In")
+![App Screenshot](/Images/choose.PNG?raw=true "Choose")
+![App Screenshot](/Images/selectExam.PNG?raw=true "Select Exam")
+![App Screenshot](/Images/exam.PNG?raw=true "Exam Random 10 Quastions")
+![App Screenshot](/Images/report.PNG?raw=true "Reports to be Generate by Instructor")
 
 
 ## Technologies
